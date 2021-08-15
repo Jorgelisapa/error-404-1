@@ -36,7 +36,7 @@ CSS y HTML
 
 ## Screenshots
 
-<img align="" width='900px' alt="" src="https://raw.githubusercontent.com/Jorgelisapa/banzellgram/master/screenshots/error-404-1.png" />
+<img align="" width='900px' alt="" src="https://raw.githubusercontent.com/Jorgelisapa/error-404-1/main/screenshots/error-404-1.png" />
 
 ## Licencia 📄
 
